@@ -13,7 +13,7 @@ B.Sc. Artificial Intelligence (AIN-B), Deggendorf Institute of Technology.
 | AIN-B-21 | Machine Learning | 4 |
 | AIN-B-22 | Computer Vision | 4 |
 
-Train-delay prediction and waste sorting. The upstream README records Machine Learning coursework; Alexander confirms the Computer Vision association. Original collaborators and credit remain below.
+Train-delay prediction and waste sorting. The upstream README records Machine Learning coursework; Alex confirms the Computer Vision association. Original collaborators and credit remain below.
 
 Module details follow the [official AIN-B handbook](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-b-ws25-26.pdf) (7 September 2026 edition). Semester refers to the curriculum, not the author's completion date. See the [THD AI course map](https://github.com/THD-AI/.github/blob/main/COURSES.md) for sources and related projects. This community fork preserves the original authors, licence, and project branding.
 
